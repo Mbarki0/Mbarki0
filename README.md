@@ -97,13 +97,156 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="50"/>
+
 
 </div>
-
+``
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=mbarki0&style=flat-square&color=brightgreen" />
 </p>
+
+---
+
+<h1 align="center">📦 Professional Projects</h1>
+
+<div align="center">
+
+<!-- CARD STYLE -->
+<style>
+.project-card {
+  width: 90%;
+  max-width: 750px;
+  padding: 20px;
+  margin: 15px auto;
+  border-radius: 12px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+.project-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #2563eb;
+}
+.project-tech {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #444;
+}
+.project-desc {
+  margin-top: 10px;
+  font-size: 15px;
+  text-align: left;
+  color: #555;
+}
+</style>
+
+<!-- 🔥 Project 1 -->
+<div class="project-card">
+  <div class="project-title">
+    🚒 Decision Support System for Firefighters (Master Internship)
+  </div>
+  <div class="project-desc">
+    Development of an intelligent platform for optimizing emergency interventions,
+    integrating RL approaches, data models and modular API communication.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> Python, PostgreSQL, JSON, APIs, Agile  
+  </div>
+</div>
+
+<!-- Project 2 -->
+<div class="project-card">
+  <div class="project-title">
+    🗺️ CartoRecherche UT3 — Search Engine + Web Interface
+  </div>
+  <div class="project-desc">
+    Designed a research visualization platform with a modern responsive UI and
+    an optimized search engine using advanced PostgreSQL indexing and Python processing.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> Python, PostgreSQL, TailwindCSS, HTML, JS  
+  </div>
+</div>
+
+<!-- Project 3 -->
+<div class="project-card">
+  <div class="project-title">
+    💬 Distributed & Secure Multi-User Chat System
+  </div>
+  <div class="project-desc">
+    Implementation of a real-time communication system respecting distributed systems
+    principles, using RMI, TCP/UDP and concurrent message management.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> Java, RMI, TCP/UDP, Sockets, C  
+  </div>
+</div>
+
+<!-- Project 4 -->
+<div class="project-card">
+  <div class="project-title">
+    📊 Medical Data Management Platform (CHU Internship)
+  </div>
+  <div class="project-desc">
+    Development of a full-stack medical analysis platform including authentication,
+    user-role management, interactive questionnaire and report generation.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> Symfony 6, PHP, JavaScript, HTML/CSS  
+  </div>
+</div>
+
+<!-- Project 5 -->
+<div class="project-card">
+  <div class="project-title">
+    📝 Academic Grades Management Platform (EST Oujda)
+  </div>
+  <div class="project-desc">
+    Designed a platform to manage student grades, teacher interactions, and department-level
+    reporting. Complete UML documentation included.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> PHP, HTML/CSS, JS, UML, Gantt  
+  </div>
+</div>
+
+<!-- Project 6 -->
+<div class="project-card">
+  <div class="project-title">
+    📄 DMN Viewer — Decision Model Visualization
+  </div>
+  <div class="project-desc">
+    Created a clean interface to display and explore DMN decision models as interactive
+    decision tables.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> TypeScript, HTML/CSS, UML  
+  </div>
+</div>
+
+<!-- Project 7 -->
+<div class="project-card">
+  <div class="project-title">
+    🏢 IT Equipment Inventory Application (ONEE Internship)
+  </div>
+  <div class="project-desc">
+    Designed an Access-based system to manage IT inventory using Merise modeling and workflow
+    specification.
+  </div>
+  <div class="project-tech">
+    <strong>Tech:</strong> Access, Merise  
+  </div>
+</div>
+
+</div>
+
+---
