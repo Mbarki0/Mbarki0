@@ -3,7 +3,7 @@
 
 
 
-  <h3>👋Bonjour, je suis <strong>Mohammed</strong>, ravi de te voir ici.</h3>
+  <h3>👋Bonjour, je suis <strong>Mohammed</strong>, ravi de vous voir ici.</h3>
 
   <a href="https://www.linkedin.com/in/mohammed-m-barki-248005204/">
     <img src="https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat-square&logo=linkedin"/>
