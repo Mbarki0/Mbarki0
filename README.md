@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-    <h3>👋 Bonjour, je suis <strong>Mohammed</strong>, ravi de vous voir ici.</h3>
+    <h3> Bonjour, je suis <strong>Mohammed</strong>, ravi de vous voir ici.</h3>
 
     <a href="https://www.linkedin.com/in/mohammed-m-barki-248005204/">
       <img src="https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat-square&logo=linkedin"/>
@@ -30,18 +30,18 @@
 
 ---
 
-## 🧭 À propos
+## À propos
 
-- 🎓 En Master Informatique — **Parcours Génie Logiciel** (alternance), Université de Montpellier
-- 🧩 Bases solides en **architecture logicielle, systèmes distribués, Symfony**
-- 🤖 Spécialisation complémentaire en **IA appliquée** (RAG, LLM, LangChain)
-- 🌱 En apprentissage : **Design Patterns, microservices, Docker Compose**
-- 💬 Demandez-moi : Symfony · architecture applicative · systèmes distribués · TypeScript · RAG/LLM
-- ⚡ Fun fact : passionné de football et de photographie
+- En Master Informatique — **Parcours Génie Logiciel** (alternance), Université de Montpellier
+- Bases solides en **architecture logicielle, systèmes distribués, Symfony**
+- Spécialisation complémentaire en **IA appliquée** (RAG, LLM, LangChain)
+- En apprentissage : **Design Patterns, microservices, Docker Compose**
+- Demandez moi : Symfony · architecture applicative · systèmes distribués · TypeScript · RAG/LLM
+- Centres d'intérêt : passionné de football et de photographie
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 <div align="center">
 
@@ -73,13 +73,13 @@
 
 ---
 
-## 🚀 Projets Phares
+## Projets Phares
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Moteur de Recherche Sémantique & Vectoriel
+### Moteur de Recherche Sémantique & Vectoriel
 Projet de groupe déployé sur le réseau privé d'une entreprise partenaire (plusieurs machines, jeux de données distincts). Développement full-stack et conception du moteur d'indexation / recherche vectorielle sous PostgreSQL.
 
 `PHP` `PostgreSQL` `HTML/CSS` `Architecture distribuée`
@@ -87,7 +87,7 @@ Projet de groupe déployé sur le réseau privé d'une entreprise partenaire (pl
 </td>
 <td width="50%" valign="top">
 
-### 💬 Chat Multi-Utilisateurs
+### Chat Multi-Utilisateurs
 Système de chat multi-utilisateurs temps réel en Linux, respectant les principes des architectures logicielles distribuées (communication client-serveur).
 
 `Systèmes distribués` `Linux` `Réseau`
@@ -97,7 +97,7 @@ Système de chat multi-utilisateurs temps réel en Linux, respectant les princip
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Visualisation de Modèles DMN
+### Visualisation de Modèles DMN
 Application web pour visualiser des modèles décisionnels DMN, développée avec mise en place de techniques de test.
 
 `TypeScript` `HTML/CSS` `Tests`
@@ -105,7 +105,7 @@ Application web pour visualiser des modèles décisionnels DMN, développée ave
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Assistant IA Local & Sécurisé (RAG)
+### Assistant IA Local & Sécurisé (RAG)
 Architecture logicielle autonome hors-cloud pour l'ingestion et l'interrogation sémantique de documents.
 
 `LangChain` `ChromaDB` `Python`
