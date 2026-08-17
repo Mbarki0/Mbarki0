@@ -20,11 +20,9 @@
 
 <div align="center">
 
-<p>🔭 I’m currently studying ... <strong>Master 1 IAFA (Artificial Intelligence)</strong></p>
-<p>🌱 I’m learning ... <strong>Machine Learning, Reinforcement Learning, Distributed Systems</strong></p>
-<p>👯 I want to collaborate on ... <strong>Python, Data Projects, IA</strong></p>
-<p>🤔 I’m looking for help with ... <strong>Deep RL, DevOps</strong></p>
-<p>💬 Ask me about ... <strong>Python, SQL, IA, Software Engineering</strong></p>
+<p>🔭 I’m currently studying ... <strong>Master 1 génie logiciel</strong></p>
+<p>👯 I want to collaborate on ... <strong>Developpement informatique Projects, génie logiciel, IA</strong></p>
+<p>💬 Ask me about ... <strong>Full stack developpment, Python, SQL, IA, Software Engineering</strong></p>
 <p>📫 How to reach me: ... <a href="https://www.linkedin.com/in/mohammed-m-barki-248005204/">LinkedIn Account</a></p>
 <p>⚡ Fun fact: ... <strong>I love Football & Photography</strong></p>
 
