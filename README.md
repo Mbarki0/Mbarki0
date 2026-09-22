@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=5B8DEF&center=true&vCenter=true&width=650&lines=Etudiant+en+Master+Genie+Logiciel;Developpeur+Full-Stack+%7C+Symfony+%7C+TypeScript;Architectures+Distribuees+%26+Systemes;IA+Appliquee+(RAG+%2F+LLM)+en+complement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit+Code&size=28&pause=1000&color=691887&center=true&vCenter=true&width=650&lines=Etudiant+en+Master+Genie+Logiciel;Developpeur+Full-Stack+%7C+Symfony+%7C+TypeScript;Architectures+Distribuees+%26+Systemes;IA+Appliquee+(RAG+%2F+LLM);Ingénieur+Logiciel" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 
 - En Master Informatique — **Parcours Génie Logiciel** (alternance), Université de Montpellier
 - Bases solides en **architecture logicielle, systèmes distribués, Symfony**
-- Spécialisation complémentaire en **IA appliquée** (RAG, LLM, LangChain)
+- **IA appliquée** (RAG, LLM, LangChain)
 - En apprentissage : **Design Patterns, microservices, Docker Compose**
 - Demandez moi : Symfony · architecture applicative · systèmes distribués · TypeScript · RAG/LLM
 - Centres d'intérêt : passionné de football et de photographie
