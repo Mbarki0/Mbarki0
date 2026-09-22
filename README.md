@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=28&pause=1000&color=691887&center=true&vCenter=true&width=650&lines=Etudiant+en+Master+Genie+Logiciel;Developpeur+Full-Stack+%7C+Symfony+%7C+TypeScript;Architectures+Distribuees+%26+Systemes;IA+Appliquee+(RAG+%2F+LLM);Ing%C3%A9nieur+Logiciel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=28&pause=1000&color=307D29&center=true&vCenter=true&width=650&lines=Etudiant+en+Master+Genie+Logiciel;Developpeur+Full-Stack+%7C+Symfony+%7C+TypeScript;Architectures+Distribuees+%26+Systemes;IA+Appliquee+(RAG+%2F+LLM);Ing%C3%A9nieur+Logiciel" alt="Typing SVG" />
 </div>
 
 <br/>
