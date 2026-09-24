@@ -45,33 +45,43 @@
 
 <div align="center">
 
-<table>
-  <!-- Ligne 1 : Écosystème Java & Ingénierie Logicielle -->
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/><br/><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/><sub><b>RMI / Sockets</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/><br/><sub><b>Maven</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45"/><br/><sub><b>Gradle</b></sub></td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Ligne 2 : Systèmes, Langages Compilés & Back-end -->
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/><sub><b>C</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br/><sub><b>PHP</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="45"/><br/><sub><b>Symfony</b></sub></td>
-  </tr>
+### Moteur de Recherche Sémantique & Vectoriel
+Projet de groupe déployé sur le réseau privé d'une entreprise partenaire (plusieurs machines, jeux de données distincts). Développement Full-Stack et conception du moteur d'indexation et de recherche vectorielle optimisée sous PostgreSQL.
 
-  <!-- Ligne 3 : Architectures, Données & Systèmes -->
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br/><sub><b>Linux / POSIX</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/><br/><sub><b>Bash</b></sub></td>
-  </tr>
+`PHP` `PostgreSQL` `HTML/CSS` `Architecture distribuée`
+
+</td>
+<td width="50%" valign="top">
+
+### Chat Multi-Utilisateurs (Client-Serveur)
+Système de chat multi-utilisateurs temps réel sous Linux, respectant les principes des architectures logicielles distribuées. Implémentation de la programmation concurrente (Multithreading) et des communications réseau (Sockets TCP/UDP).
+
+`Java` `C` `Multithreading` `Sockets` `Systèmes distribués` `Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Visualisation de Modèles DMN
+Application web pour visualiser des modèles décisionnels complexes (DMN), développée avec une approche stricte d'ingénierie logicielle et la mise en place de techniques de tests.
+
+`TypeScript` `HTML/CSS` `Tests` `Génie Logiciel`
+
+</td>
+<td width="50%" valign="top">
+
+### Assistant IA Local & Sécurisé (RAG)
+Architecture logicielle autonome hors-cloud pour l'ingestion de documents complexes et l'interrogation sémantique. Déploiement et optimisation de modèles d'IA générative en local.
+
+`Python` `LangChain` `ChromaDB` `PyTorch` `Gradio`
+
+</td>
+</tr>
 </table>
 </div>
 
