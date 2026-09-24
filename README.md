@@ -84,17 +84,17 @@
 <td width="50%" valign="top">
 
 ### Moteur de Recherche Sémantique & Vectoriel
-Projet de groupe déployé sur le réseau privé d'une entreprise partenaire (plusieurs machines, jeux de données distincts). Développement full-stack et conception du moteur d'indexation / recherche vectorielle sous PostgreSQL.
+Projet de groupe déployé sur le réseau privé d'une entreprise partenaire (plusieurs machines, jeux de données distincts). Développement Full-Stack et conception du moteur d'indexation et de recherche vectorielle optimisée sous PostgreSQL.
 
 `PHP` `PostgreSQL` `HTML/CSS` `Architecture distribuée`
 
 </td>
 <td width="50%" valign="top">
 
-### Chat Multi-Utilisateurs
-Système de chat multi-utilisateurs temps réel en Linux, respectant les principes des architectures logicielles distribuées (communication client-serveur).
+### Chat Multi-Utilisateurs (Client-Serveur)
+Système de chat multi-utilisateurs temps réel sous Linux, respectant les principes des architectures logicielles distribuées. Implémentation de la programmation concurrente (Multithreading) et des communications réseau (Sockets TCP/UDP).
 
-`Systèmes distribués` `Linux` `Réseau`
+`Java` `C` `Multithreading` `Sockets` `Systèmes distribués` `Linux`
 
 </td>
 </tr>
@@ -102,21 +102,22 @@ Système de chat multi-utilisateurs temps réel en Linux, respectant les princip
 <td width="50%" valign="top">
 
 ### Visualisation de Modèles DMN
-Application web pour visualiser des modèles décisionnels DMN, développée avec mise en place de techniques de test.
+Application web pour visualiser des modèles décisionnels complexes (DMN), développée avec une approche stricte d'ingénierie logicielle et la mise en place de techniques de tests.
 
-`TypeScript` `HTML/CSS` `Tests`
+`TypeScript` `HTML/CSS` `Tests` `Génie Logiciel`
 
 </td>
 <td width="50%" valign="top">
 
 ### Assistant IA Local & Sécurisé (RAG)
-Architecture logicielle autonome hors-cloud pour l'ingestion et l'interrogation sémantique de documents.
+Architecture logicielle autonome hors-cloud pour l'ingestion de documents complexes et l'interrogation sémantique. Déploiement et optimisation de modèles d'IA générative en local.
 
-`LangChain` `ChromaDB` `Python`
+`Python` `LangChain` `ChromaDB` `PyTorch` `Gradio`
 
 </td>
 </tr>
 </table>
+
 
 ---
 
